@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for aplication seleksi-bootcamp",
+  "main": "index.js",
+  "author": "alifata",
+  "license": "MIT",
+  "private": false
+}
